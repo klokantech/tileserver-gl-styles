@@ -1,0 +1,13 @@
+{
+  "name": "tileserver-gl-styles",
+  "version": "0.1.0",
+  "description": "Default styles for TileServer-GL",
+  "authors": [
+    "Petr Pridal <petr.pridal@klokantech.com>",
+    "Petr Sloup <petr.sloup@klokantech.com>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/klokantech/tileserver-gl-styles.git"
+  }
+}
