@@ -3,7 +3,7 @@
     "name": "Bright",
     "sources": {
         "mapbox": {
-            "url": "mbtiles_data://data",
+            "url": "mbtiles://{osm2vectortiles}",
             "type": "vector"
         }
     },
