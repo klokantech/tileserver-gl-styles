@@ -1,4 +1,6 @@
-.gitmodules
 .gitignore
 styles_modules
 publish.js
+styles/*/url
+styles/*/*.zip
+styles/*/*.html

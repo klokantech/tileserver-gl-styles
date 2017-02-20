@@ -11,6 +11,16 @@ if (fs.existsSync('styles')) {
 var styles = fs.readdirSync('styles_modules');
 for (var i = 0; i < styles.length; i++) {
   var style = styles[i];
+  console.log('Downloading', style);
+  require('child_process').execSync(
+    ('cd styles_modules/{s};' +
+     'wget -q -i url -O tmp.zip;' +
+     'unzip -o tmp.zip;' +
+     'rm tmp.zip;cd ../..')
+      .replace(/\{s\}/g, style), {
+    stdio: 'inherit'
+  });
+
   var stylePath = 'styles_modules/' + style + '/style-local.json';
   if (fs.existsSync(stylePath)) {
     console.log('Preparing', style);

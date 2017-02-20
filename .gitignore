@@ -1,1 +1,4 @@
 styles
+styles_modules/*/*
+
+!styles_modules/*/url

@@ -1,8 +1,0 @@
-[submodule "styles_modules/osm-bright"]
-	path = styles_modules/osm-bright
-	url = https://github.com/openmaptiles/osm-bright-gl-style
-	branch = gh-pages
-[submodule "styles_modules/klokantech-basic"]
-	path = styles_modules/klokantech-basic
-	url = https://github.com/openmaptiles/klokantech-basic-gl-style
-	branch = gh-pages
