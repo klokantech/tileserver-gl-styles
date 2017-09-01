@@ -1,6 +1,6 @@
 {
   "name": "tileserver-gl-styles",
-  "version": "1.1.1",
+  "version": "1.2.0",
   "description": "Default styles for TileServer-GL",
   "authors": [
     "Petr Pridal <petr.pridal@klokantech.com>",
