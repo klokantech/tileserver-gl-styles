@@ -29,6 +29,7 @@ The Mapbox Open Styles use the following font families:
 
 - Open Sans, digitized data(c) 2010-2011, Google Corporation. Open Sans is licensed under the Apache License, Version 2.0. You may obtain a copy of the license at http://www.apache.org/licenses/LICENSE-2.0.
 - Arial Unicode MS, digitized data (c) 1993-2000 Agfa Monotype Corporation. All rights reserved. If you use the Mapbox Open Styles with the Mapbox service, your use of Arial Unicode is licensed. Otherwise, you may need a license.
+- Font Awesome 5 Free Solid, digitized data (c) Fonticons, Inc. SIL Open Font License (OFL) See: https://fontawesome.com/license/free
 
 Mapbox waives all copyright in the SVG icons in this repository used in the Mapbox Open Styles, under the terms of the CC0 v 1.0 Public Domain Dedication. You may obtain a copy of the dedication at http://creativecommons.org/publicdomain/zero/1.0/.
 
